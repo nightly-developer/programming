@@ -1,0 +1,5 @@
+fn main() {
+	println!("please enter number");
+	let num = int32();
+	
+}
