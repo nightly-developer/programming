@@ -1,0 +1,6 @@
+[submodule "dart"]
+	path = dart
+	url = https://github.com/nightly-developer/dart.git
+[submodule "go"]
+	path = go
+	url = https://github.com/nightly-developer/go.git
